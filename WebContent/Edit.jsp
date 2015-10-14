@@ -10,7 +10,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
 <script  type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
 <script  type="text/javascript" src="js/validation.js"></script>
-<title>Edit Page</title>
+<title>Edit Product Page</title>
 
 <body>
 	<div >
