@@ -18,7 +18,7 @@
 	<form method="post" action="./createuser">
 		<div id="userdetails">
             <div id="userdiv">
-            <span>Please Fill Up The  Form</span><br/>
+            <span>Please Fill Up The Form</span><br/>
                 <label>Username</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <input type="text" class="inputbox" name="username" id="uname"/>
                 <label>Password</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
