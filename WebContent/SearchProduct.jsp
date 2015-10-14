@@ -15,7 +15,7 @@
 	<%@ page import="java.util.List" %>
 <body>
 <div id="searchresult">
-<h4>Search Result</h4>
+<h4>Product Search Result</h4>
 <div align="center" id="createproduct"> <a href="./gobackproductlist" >Go To ProductList</a> </div>
 				<table class="table">
 						<tr class="firstrow"><th>Product Name</th><th>Quantity</th><th>Price/unit</th><th>Vendor's Name</th></tr>
